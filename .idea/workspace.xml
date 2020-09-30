@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8cfaa625-d966-4553-8de6-1944ac60a06f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/events/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/events/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/events/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myawesomeblog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myawesomeblog/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myawesomeblog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myawesomeblog/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
